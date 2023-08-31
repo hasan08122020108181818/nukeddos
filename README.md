@@ -10,8 +10,7 @@ apt-get install python2
 
 apt-get install git
 
-git clone 
-https://github.com/nishinosukasa/Bo
+git clone https://github.com/hasan08122020108181818/nukeddos
 
 cd ddos-ronaldo
 
