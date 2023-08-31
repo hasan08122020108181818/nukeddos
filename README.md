@@ -13,8 +13,6 @@ apt-get install git
 git clone 
 https://github.com/nishinosukasa/Bo
 
-mb-Botnet
-
 cd ddos-ronaldo
 
 python2 ddos-Sui.py
